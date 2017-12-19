@@ -1,6 +1,6 @@
 # Conversational Bot Training 
 ## AWS Lex
-[#1-business-understanding-and-business-case][1]
+[1. Business Understanding and Business Case](#1-business-understanding-and-business-case)
 
 
 ### 1. Business Understanding and Business Case
