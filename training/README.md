@@ -1,7 +1,9 @@
 # Conversational Bot Training 
 ## AWS Lex
-[1. Business Understanding and Business Case][1]
-[1]: ### 1. Business Understanding and Business Case
+[##1.-Business-Understanding-and-Business-Case][1]
+
+
+### 1. Business Understanding and Business Case
 Conversational bots are end to end, and engage the customer. There are 8 different components that make up the entire solution as seen below:</br>
 * **Speech to Intent** - This is the speech recognition engine and the natural language understanding engine which take care of consuming the voice captured and translating that into the "Intent" for which you design the bot to handle
 * **Dialog Management** - part of the solution that maintains context (more later) and allows for variations of the dialogue to occur but still handle the "Intent"
