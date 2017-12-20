@@ -20,13 +20,13 @@ Conversational bots are end to end, and engage the customer. There are 8 differe
 
 ![](/training/aws_lex_arch_2.PNG "Complete Solution Diagram 1")
 
-![](~/aws_lex_arch_3.PNG "Complete Solution Diagram 1")
+![](/training/aws_lex_arch_3.PNG "Complete Solution Diagram 1")
 
-![](~/aws_lex_arch_4.PNG "Complete Solution Diagram 1")
+![](/training/aws_lex_arch_4.PNG "Complete Solution Diagram 1")
 
-![](~/aws_lex_arch_5.PNG "Complete Solution Diagram 1")
+![](/training/aws_lex_arch_5.PNG "Complete Solution Diagram 1")
 
-![](~/aws_lex_arch_6.PNG "Complete Solution Diagram 1")
+![](/training/aws_lex_arch_6.PNG "Complete Solution Diagram 1")
 
 
-![](~/aws_lex_arch_7.PNG "Complete Solution Diagram 1")
+![](/training/aws_lex_arch_7.PNG "Complete Solution Diagram 1")
