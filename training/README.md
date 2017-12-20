@@ -3,7 +3,6 @@
 AWS Lex is the service used to build conversational interfaces, or chat bots. It is the critical entity between the customer and their device, and the backend architecture.
 [1. Business Understanding and Business Case](#1-business-understanding-and-business-case)
 
-
 ### 1. Business Understanding and Business Case
 Conversational bots are end to end, and engage the customer. There are 8 different components that make up the entire solution as seen below:</br>
 * **Speech to Intent** - This is the speech recognition engine and the natural language understanding engine which take care of consuming the voice captured and translating that into the "Intent" for which you design the bot to handle
@@ -15,18 +14,17 @@ Conversational bots are end to end, and engage the customer. There are 8 differe
 * **Analytics** - This comes in the way of mostly monitoring and reporting to be able to see how the bot is working and being used. The way text and voice are captured, processed, and distributed by AWS services like Lex, allow us to get down to when and what was passed and if it was accepted
 * **Text to Speech** - While AWS Lex handles the speech recognition and the natural language understanding, it uses AWS Polly to then send back the output from the bot as a computer generated voice. AWS Polly is provided as its own service with many capabilities
 
-![](~/aws_lex_arch_1.PNG)
+![](training/aws_lex_arch_1.PNG)
 </br>*Complete AWS Lex Solution Diagram*
 
-![](/training/aws_lex_arch_2.PNG "Complete Solution Diagram 1")
+![](training/aws_lex_arch_2.PNG)
 
-![](/training/aws_lex_arch_3.PNG "Complete Solution Diagram 1")
+![](training/aws_lex_arch_3.PNG)
 
-![](/training/aws_lex_arch_4.PNG "Complete Solution Diagram 1")
+![](training/aws_lex_arch_4.PNG)
 
-![](/training/aws_lex_arch_5.PNG "Complete Solution Diagram 1")
+![](training/aws_lex_arch_5.PNG)
 
-![](/training/aws_lex_arch_6.PNG "Complete Solution Diagram 1")
+![](training/aws_lex_arch_6.PNG)
 
-
-![](/training/aws_lex_arch_7.PNG "Complete Solution Diagram 1")
+![](/training/aws_lex_arch_7.PNG)
