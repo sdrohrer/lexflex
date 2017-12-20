@@ -77,4 +77,8 @@ Each conversation between customer and chatbot contains many data elements that 
 ![lex_6](/training/aws_lex_arch_6.PNG)
 </br>*Context Captured Elements from Chatbot Conversations*
 
+In the below Dynamic Conversation Flow you can see how at the top, the Intent can be switched - similar to our prior examples where there was always a 3rd sub-Intent not discussed. These Intents continue on with their own utterances, slots, fulfillment, and yes, more Intents.
+
+On the bottom of the graph you can see how Intents are chained together sequentially, just how we have described before as resetting or restarting the chatbot.
 ![lex_7](/training/aws_lex_arch_7.PNG)
+</br>*Context Captured Elements from Chatbot Conversations*
