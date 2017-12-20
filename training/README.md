@@ -4,3 +4,6 @@
 </br>This document will walkthrough AWS Lex and what a chatbot is from a business perspective. 
 
 AWS Lex is the service used to build conversational interfaces, or chat bots. It is the critical entity between the customer and their device, and the backend architecture. More on AWS Lex at a [can be found here](https://aws.amazon.com/lex). The details within were extrapolated from the [following video by AWS](https://youtu.be/qe9nRU6ZHAI). 
+
+[2. ](/training/solution_architecture_lex.md)
+</br> This document provide solution architecture diagrams of how AWS Lex works with other AWS services.
