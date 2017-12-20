@@ -18,7 +18,7 @@ Conversational bots are end to end voice and text automated communication, and e
 7. **Analytics** - This comes in the way of mostly monitoring and reporting to be able to see how the bot is working and being used. The way text and voice are captured, processed, and distributed by AWS services like Lex, allow us to get down to when and what was passed and if it was accepted
 8. **Text to Speech** - While AWS Lex handles the speech recognition and the natural language understanding, it uses AWS Polly to then send back the output from the bot as a computer generated voice. AWS Polly is provided as its own service with many capabilities
 
-![lex_1](/training/aws_lex_arch_1.PNG)
+![lex_1](/training/images/aws_lex_arch_1.PNG)
 </br>*Complete AWS Lex Solution and its 8 Core Components*
 
 ## Event Mapping within a Chatbot on AWS Lex 
@@ -33,7 +33,7 @@ When a customer interacts with a chatbot they provide an "Intent" for which the 
 * A **Slot** can have an **Utterance** or a **Fulfillment**
 * A **Fulfillment** returns to the **Chatbot**
 
-![lex_2](/training/aws_lex_arch_2.PNG)
+![lex_2](/training/images/aws_lex_arch_2.PNG)
 </br>*Heirarchy of AWS Lex Chatbot Events*
 
 ## Chatbot example use cases using AWS Lex
@@ -56,29 +56,29 @@ The following use cases are good examples to get a better understanding of how t
 6. The Intent is fulfilled and has returned to the start
    1. The **Expense Report Intent** initializes another level of utterances and intents needed to complete something as complex as a expense report
   
-![lex_3](/training/aws_lex_arch_3.PNG)
+![lex_3](/training/images/aws_lex_arch_3.PNG)
 </br>*Example Use Case:  Employee Assistant Bot*
 
 ### Customer Service Bot
 In this next bot use case, you'll see it mirrors closely to the structure and implementation as the Employee Assistant Bot. Notice though, in the utterances that follow the **Upgrade Plan Intent** and **Schedule Appt. Intent**, there are a variety of them that can be used to engage the chatbot to request the same *Slots* like *Plan* and *Start Date*.
 
-![lex_4](/training/aws_lex_arch_4.PNG)
+![lex_4](/training/images/aws_lex_arch_4.PNG)
 </br>*Example Use Case:  Customer Service Bot*
 
 ### DevOps Bot
 Here the bot structure is still very simple and similar to the other use cases; straightforward and to the point with multiple utterances and intents that require slots to be fulfilled. However, when contrasting against the prior use cases you will see how the chatbots can be used to complete many everyday tasks within any business domain.
 
-![lex_5](/training/aws_lex_arch_5.PNG)
+![lex_5](/training/images/aws_lex_arch_5.PNG)
 </br>*Example Use Case:  DevOps Bot*
 
 ## Capturing Conversation Context
 Each conversation between customer and chatbot contains many data elements that are captured. These data elements sit at the event level such as intents and slots, but also provide additional metadata about them as well. In the graph below you can see how different slots, prompts, and attributes are caught and stored to be used by the chatbot and to aide future development. Even missed utterances are captured and can be used to expand your utterance library!
 
-![lex_6](/training/aws_lex_arch_6.PNG)
+![lex_6](/training/images/aws_lex_arch_6.PNG)
 </br>*Context Captured Elements from Chatbot Conversations*
 
 In the below Dynamic Conversation Flow you can see how at the top, the Intent can be switched - similar to our prior examples where there was always a 3rd sub-Intent not discussed. These Intents continue on with their own utterances, slots, fulfillment, and yes, more Intents.
 
 On the bottom of the graph you can see how Intents are chained together sequentially, just how we have described before as resetting or restarting the chatbot.
-![lex_7](/training/aws_lex_arch_7.PNG)
+![lex_7](/training/images/aws_lex_arch_7.PNG)
 </br>*Context Captured Elements from Chatbot Conversations*
