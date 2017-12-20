@@ -1,4 +1,6 @@
-## AWS Lex
+# Building AI Chatbots
+## Conversational Interfaces (AWS Lex)
+AWS Lex is the service used to build conversational interfaces, or chat bots. It is the critical entity between the customer and their device, and the backend architecture.
 [1. Business Understanding and Business Case](#1-business-understanding-and-business-case)
 
 
@@ -16,7 +18,7 @@ Conversational bots are end to end, and engage the customer. There are 8 differe
 ![](~/aws_lex_arch_1.PNG)
 </br>*Complete AWS Lex Solution Diagram*
 
-![](~/aws_lex_arch_2.PNG "Complete Solution Diagram 1")
+![](/training/aws_lex_arch_2.PNG "Complete Solution Diagram 1")
 
 ![](~/aws_lex_arch_3.PNG "Complete Solution Diagram 1")
 
