@@ -1,4 +1,3 @@
-# Conversational Bot Training 
 ## AWS Lex
 [1. Business Understanding and Business Case](#1-business-understanding-and-business-case)
 
@@ -14,18 +13,18 @@ Conversational bots are end to end, and engage the customer. There are 8 differe
 * **Analytics** - This comes in the way of mostly monitoring and reporting to be able to see how the bot is working and being used. The way text and voice are captured, processed, and distributed by AWS services like Lex, allow us to get down to when and what was passed and if it was accepted
 * **Text to Speech** - While AWS Lex handles the speech recognition and the natural language understanding, it uses AWS Polly to then send back the output from the bot as a computer generated voice. AWS Polly is provided as its own service with many capabilities
 
-![](https://github.com/sdrohrer/lexflex/blob/master/training/aws_lex_arch_1.PNG)
-</br>*Complete Solution Diagram*
+![](~/aws_lex_arch_1.PNG)
+</br>*Complete AWS Lex Solution Diagram*
 
-![](https://github.com/sdrohrer/lexflex/blob/master/training/aws_lex_arch_2.PNG "Complete Solution Diagram 1")
+![](~/aws_lex_arch_2.PNG "Complete Solution Diagram 1")
 
-![](https://github.com/sdrohrer/lexflex/blob/master/training/aws_lex_arch_3.PNG "Complete Solution Diagram 1")
+![](~/aws_lex_arch_3.PNG "Complete Solution Diagram 1")
 
-![](https://github.com/sdrohrer/lexflex/blob/master/training/aws_lex_arch_4.PNG "Complete Solution Diagram 1")
+![](~/aws_lex_arch_4.PNG "Complete Solution Diagram 1")
 
-![](https://github.com/sdrohrer/lexflex/blob/master/training/aws_lex_arch_5.PNG "Complete Solution Diagram 1")
+![](~/aws_lex_arch_5.PNG "Complete Solution Diagram 1")
 
-![](https://github.com/sdrohrer/lexflex/blob/master/training/aws_lex_arch_6.PNG "Complete Solution Diagram 1")
+![](~/aws_lex_arch_6.PNG "Complete Solution Diagram 1")
 
 
-![](https://github.com/sdrohrer/lexflex/blob/master/training/aws_lex_arch_7.PNG "Complete Solution Diagram 1")
+![](~/aws_lex_arch_7.PNG "Complete Solution Diagram 1")
