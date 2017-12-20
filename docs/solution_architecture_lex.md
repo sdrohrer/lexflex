@@ -15,5 +15,5 @@ Here you can see how AWS Lex is positioned with other services to deliver a chat
 7. **Other AWS Services** - These can be any number of services, and depends on your infrastructure and business
 8. **Actual chatbot application** - This is how your customers interacts with the chatbot
 
-![sol_lex_1](/training/images/aws_lex_sol_arch_1.PNG)
+![sol_lex_1](/docs/images/aws_lex_sol_arch_1.PNG)
 </br>*Sample Solution Architecture - Banking Chatbot*
