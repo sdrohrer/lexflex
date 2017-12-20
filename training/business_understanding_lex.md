@@ -4,7 +4,7 @@ AWS Lex is the service used to build conversational interfaces, or chat bots. It
 [1. 8 Components to AWS Lex: What you need to know](#8-components-to-aws-lex)</br>
 [2. Event mapping within a chatbot on AWS Lex:  Understanding the process](#event-mapping-within-a-chatbot-on-aws-lex)</br>
 [3. Chatbot example use cases using AWS Lex:  Food for thought](#chatbot-example-use-cases-using-aws-lex)<br/>
-[4.Capturing Conversation Context:  A ton of data is collected](#capturing-conversation-context)
+[4. Capturing Conversation Context:  A ton of data is collected](#capturing-conversation-context)
 
 
 ## 8 Components to AWS Lex
