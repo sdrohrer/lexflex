@@ -1,5 +1,4 @@
-# Training Repo
-
+# Documentation Repo
 **[1. Business Understanding for Building AI Chatbots in the Cloud (AWS Lex)](/docs/business_understanding_lex.md)**
 </br>*This document will walkthrough AWS Lex and what a chatbot is from a business perspective.* 
 
