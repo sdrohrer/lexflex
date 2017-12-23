@@ -65,14 +65,3 @@
 3. Supports Python
 
 [comprehend_ex]: (i cant fucking load it yet.png "Comprehend Example")
-
-
-
-
-
-
-
-
-
-
-
