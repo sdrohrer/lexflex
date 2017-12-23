@@ -52,7 +52,7 @@
     * extraction of key phrases, places, people, brands, or events
     * sentiment analysis
     
-![alt text](/docs/images/Comprehend.png "Comprehend Example")
+![alt text](lexflex/docs/images/Comprehend.PNG "Comprehend Example")
 
 2. Automatically organizes a collection of text files by topic    
 3. [Billed by units of 100 characters](https://aws.amazon.com/comprehend/pricing/)
