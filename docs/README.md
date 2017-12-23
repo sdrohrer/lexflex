@@ -13,10 +13,10 @@ AWS Lex is a single service that packages and consolidates many of the steps for
 **[3. Benefits](/docs/benefits.md)**
 </br>*This document will list high level overview and benefits to several AWS Services.*
 
- [AWS Lex](https://aws.amazon.com/lex/) - Conversational interfaces using voice and text
- [AWS Polly](https://aws.amazon.com/polly/) - Conversion of text inputs to speech
- [AWS Transcribe](https://aws.amazon.com/transcribe/) - Analyze and convert audio files into text
- [AWS SageMaker](https://aws.amazon.com/sagemaker/) - Build, train, and deploy machine learning models
- [AWS Comprehend](https://aws.amazon.com/comprehend/) - Find insights and relationships in text
- [AWS Rekognition](https://aws.amazon.com/rekognition/) - Image and video analysis
- [AWS MXNet](https://aws.amazon.com/mxnet/) - Fast and scalable training and inference framework
+[AWS Lex](https://aws.amazon.com/lex/) - Conversational interfaces using voice and text.
+[AWS Polly](https://aws.amazon.com/polly/) - Conversion of text inputs to speech
+[AWS Transcribe](https://aws.amazon.com/transcribe/) - Analyze and convert audio files into text
+[AWS SageMaker](https://aws.amazon.com/sagemaker/) - Build, train, and deploy machine learning models
+[AWS Comprehend](https://aws.amazon.com/comprehend/) - Find insights and relationships in text
+[AWS Rekognition](https://aws.amazon.com/rekognition/) - Image and video analysis
+[AWS MXNet](https://aws.amazon.com/mxnet/) - Fast and scalable training and inference framework
