@@ -51,7 +51,9 @@
     * language identification
     * extraction of key phrases, places, people, brands, or events
     * sentiment analysis
-![alt text](https://github.com/TheUltimatum29/lexflex/docs/images/Comprehend.png "Comprehend Example")
+    
+![alt text](/docs/images/Comprehend.png "Comprehend Example")
+
 2. Automatically organizes a collection of text files by topic    
 3. [Billed by units of 100 characters](https://aws.amazon.com/comprehend/pricing/)
     
