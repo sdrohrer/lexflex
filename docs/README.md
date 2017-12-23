@@ -11,7 +11,7 @@ AWS Lex is the service used to build conversational interfaces, or chat bots. It
 AWS Lex is a single service that packages and consolidates many of the steps for building chatbots. However, typically for a complete end-to-end deployment of a chatbot you are required to leverage other AWS services and systems to properly serve your customers. More on AWS Lex [can be found here](https://aws.amazon.com/lex).
 
 **[3. Benefits](/docs/benefits.md)**
-</br>*This document will list high level overview and benefits to several AWS Services
+</br>*This document will list high level overview and benefits to several AWS Services.*
 
 AWS Lex : Conversational interfaces using voice and text
 AWS Polly : Conversion of text inputs to speech
