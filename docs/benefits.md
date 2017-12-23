@@ -51,7 +51,7 @@
     * language identification
     * extraction of key phrases, places, people, brands, or events
     * sentiment analysis
-    ![alt text][comprehend_ex]
+    ![alt text][comprehend]
 2. Automatically organizes a collection of text files by topic    
 3. [Billed by units of 100 characters](https://aws.amazon.com/comprehend/pricing/)
     
@@ -64,4 +64,4 @@
 2. Gluon interface allows quick learning access to deep learning on the cloud, edge devices, or mobile apps
 3. Supports Python
 
-[comprehend_ex]: (i cant fucking load it yet.png "Comprehend Example")
+[comprehend]: (/docs/images/Comprehend.png "Comprehend Example")
