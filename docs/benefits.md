@@ -64,5 +64,3 @@
 1. Fast and scalable training and inference framework with an easy-to-use/concise API for ML
 2. Gluon interface allows quick learning access to deep learning on the cloud, edge devices, or mobile apps
 3. Supports Python
-
-[comprehend]: (/docs/images/Comprehend.png "Comprehend Example")
