@@ -14,9 +14,15 @@ AWS Lex is a single service that packages and consolidates many of the steps for
 </br>*This document will list high level overview and benefits to several AWS Services.*
 
 AWS Lex : Conversational interfaces using voice and text
+
 AWS Polly : Conversion of text inputs to speech
+
 AWS Transcribe : Analyze and convert audio files into text
+
 AWS SageMaker : Build, train, and deploy machine learning models
+
 AWS Comprehend : Find insights and relationships in text
+
 AWS Rekognition : Image and video analysis
+
 AWS MXNet : Fast and scalable training and inference framework
